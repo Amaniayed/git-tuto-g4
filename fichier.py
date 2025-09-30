@@ -1,1 +1,2 @@
-x=55
+function f()
+return 10
